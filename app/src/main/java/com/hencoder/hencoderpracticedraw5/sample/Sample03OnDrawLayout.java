@@ -9,7 +9,6 @@ import android.util.AttributeSet;
 import android.widget.LinearLayout;
 
 public class Sample03OnDrawLayout extends LinearLayout {
-    Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     Pattern pattern = new Pattern();
 
     public Sample03OnDrawLayout(Context context) {
